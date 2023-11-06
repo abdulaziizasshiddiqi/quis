@@ -26,7 +26,7 @@
                                  <label for="kelas"><input type="radio" name="kelas" value="Bisnis">Bisnis </label>
                                  <label for="kelas"><input type="radio" name="kelas" value="Ekonomi">Ekonomi </label>
         
-        <label>Pilih Kode Pesawat : <select name="jumlah">
+        <label>Jumlah Tiket : <select name="jumlah">
             <option value="1">1</option>
             <option value="2">2</option>
             <option value="3">3</option>
